@@ -39,3 +39,19 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/hamzabdullah/leetcode-journey/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/hamzabdullah/leetcode-journey/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/hamzabdullah/leetcode-journey/tree/main/0002-add-two-numbers/) | Medium |
+<!---LeetCode Topics End-->
