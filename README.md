@@ -66,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzabdullah/leetcode-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/hamzabdullah/leetcode-journey/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
